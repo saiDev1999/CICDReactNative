@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Appcenter-Config.plist
+   learningApp
+
+   Created by Ravi Ert on 03/05/24.
+   Copyright (c) 2024 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<plist version="1.0">
+  <dic>
+    <key>AppSecret</key>
+    <string>8ab39863-8044-4f18-b614-5c66c2437d59</string>
+<dict/>
+</plist>
